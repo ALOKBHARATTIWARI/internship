@@ -1,3 +1,4 @@
+
 # Task 1
 
 In this task, you will implement a myls command similar to the ls command
@@ -10,7 +11,7 @@ same information as coreutils ls.
 * -a
 * -l
 * -al or -la or -a -l (these options interpret both of -a and -l.)
-# Notes
+## Notes
 * When listing directory contents, do not display any files or directories
 whose names start with dot (.) unless the -a option is given.
 * Symbolic links and hard links should be displayed as in coreutils ls.
@@ -45,5 +46,10 @@ For example, these options could be
 * -s
 * -S
 ```
-If there is not enough time to complete the tasks, please submit code and report
+
+# Submit
+
+* create a private github repo and share the code.
+* If there is not enough time to complete the tasks, please submit code and report
 as far as you were able to implement/write them.
+* Feel free to google for approach to implement this.
